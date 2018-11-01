@@ -1,1 +1,2 @@
-# Aula-11-Sazonalidade---Suaviza-o
+# 11-Sazonalidade-Suavizacao
+Suavização e decomposição por meio de médias móveis.
